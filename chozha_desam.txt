@@ -1,0 +1,89 @@
+{
+  "task": "cinematic_video_generation",
+  "scene": {
+    "title": "The Rise",
+    "duration": "6-8 seconds",
+    "environment": "sunrise over ancient South Indian temple, golden mist",
+    "visual_style": "epic cinematic, warm golden tone",
+    "camera": {
+      "shot_type": "aerial wide",
+      "movement": "slow forward push",
+      "lens": "24mm anamorphic"
+    },
+    "elements": [
+      "temple silhouette",
+      "morning fog",
+      "birds flying"
+    ],
+    "text_overlay": {
+      "content": "THE RISE OF AN EMPIRE",
+      "style": "cinematic gold serif"
+    },
+    "audio": {
+      "music": "soft orchestra + temple bell"
+    },
+    "voiceover": {
+      "language": "Tamil",
+      "dialogue": "ஒரு பேரரசு... பிறக்காது... உருவாக்கப்படும்..."
+    }
+  }
+}
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+CLIP2
+
+{
+  "task": "cinematic_video_generation",
+  "scene": {
+    "title": "King Entry",
+    "duration": "6-8 seconds",
+    "environment": "dark royal palace, fire torches",
+    "visual_style": "dark cinematic, high contrast",
+    "camera": {
+      "shot_type": "low angle hero shot",
+      "movement": "slow motion tracking",
+      "lens": "50mm"
+    },
+    "subject": {
+      "character": "Chozha King",
+      "action": "walking forward with sword, intense gaze"
+    },
+    "lighting": "fire-lit dramatic shadows",
+    "audio": {
+      "music": "deep drums + bass"
+    },
+    "voiceover": {
+      "language": "Tamil",
+      "dialogue": "நான் வந்துட்டேன்... ஆட்சி செய்ய இல்ல... ஆள வர்றேன்..."
+    }
+  }
+}
+------------------------------------------------------------------------------------------------------------------------------
+CLIP-3
+{
+  "task": "cinematic_thumbnail_generation",
+  "image": {
+    "style": "ultra realistic cinematic war",
+    "composition": {
+      "foreground": "large blood-stained sword on right side",
+      "background": "war battlefield with elephants, fire, smoke, lightning",
+      "text_position": "top center"
+    },
+    "text": {
+      "title": "CHOZHA DESAM",
+      "subtitle": "THE WAR BEGINS",
+      "style": "gold embossed, strong glow, cinematic shadow, 3D depth, high contrast"
+    },
+    "lighting": {
+      "effect": "spotlight glow behind text, rim light on sword",
+      "contrast": "high cinematic"
+    },
+    "effects": [
+      "embers",
+      "smoke",
+      "lightning glow behind title",
+      "depth of field"
+    ]
+  }
+}
