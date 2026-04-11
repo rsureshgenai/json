@@ -1,0 +1,172 @@
+MASTER PROMPT:
+{
+  "video_settings": {
+    "resolution": "1080x1920",
+    "aspect_ratio": "9:16",
+    "quality": "4K ultra realistic",
+    "fps": 30,
+    "duration_per_clip": 5,
+    "platform": "Instagram Reels"
+  },
+
+  "style": {
+    "type": "modern reels advertisement",
+    "look": "natural, clean, bright",
+    "pace": "fast",
+    "no_over_effects": true
+  },
+
+  "host": {
+    "type": "young Tamil girl",
+    "age": "20-25",
+    "appearance": "brown skin, black hair, natural look",
+    "consistency": "same face, same outfit, same background in clips 1,3,6",
+    "expression": "friendly, confident, slight smile",
+    "camera": "medium close-up, eye level"
+  },
+
+  "kids": {
+    "type": "Tamil kids",
+    "appearance": "natural",
+    "environment": "home learning setup"
+  },
+
+  "camera": {
+    "movement": "slight handheld + smooth",
+    "cuts": "quick but clean"
+  },
+
+  "lighting": {
+    "type": "natural light",
+    "tone": "bright, warm"
+  },
+
+  "safe_area": {
+    "avoid_top_px": 250,
+    "avoid_bottom_px": 350,
+    "text_zone": "center safe area only"
+  },
+
+  "text_style": {
+    "font": "Instagram Sans / Poppins Bold",
+    "color": "#FFFFFF",
+    "background": "subtle dark gradient",
+    "animation": "quick fade + slight scale",
+    "no_3D": true,
+    "no_glow": true
+  },
+
+  "voiceover": {
+    "voice": "female",
+    "tone": "fast, energetic, casual Tamil",
+    "start": 1,
+    "consistent_across_all_clips": true,
+    "no_repetition": true
+  },
+
+  "rules": {
+    "text_only_in_clips": [1,3,6],
+    "no_text_in_clips": [2,4,5],
+    "strict_host_only_in": [1,3,6]
+  }
+}
+
+🎬 Clip 1 (HOST)
+{
+  "master": "use master settings",
+
+  "scene": "young Tamil girl looking directly into camera, clean indoor background, confident expression",
+
+  "voiceover": {
+    "text": "இந்த summer கு… உங்க குழந்தைகள் என்ன பண்ணப் போறாங்க? அதுக்கான plan ஏதாவது readyஆ இருக்கா?"
+  },
+
+  "text": {
+    "content": "THIS SUMMER",
+    "position": "center safe area",
+    "timing": { "start": 2, "end": 3 }
+  }
+}
+
+🎬 Clip 2 (KIDS – REALITY)
+{
+  "master": "use master settings",
+
+  "scene": "Tamil kid sitting casually watching TV and using phone, relaxed posture",
+
+  "voiceover": {
+    "text": "TV… phone… games… இப்படியே இந்த summer-ஐயும் waste பண்ணப் போறாங்கலா?"
+  },
+
+  "text": { "enabled": false }
+}
+🎬 Clip 3 (HOST)
+{
+  "master": "use master settings",
+
+  "scene": "same Tamil girl, slight forward lean, engaging expression",
+
+  "voiceover": {
+    "text": "அல்லது… usefulஆ எதாவது கத்துக்கலாமா? futureக்கு help ஆகுற ஒரு skill start பண்ணலாமே?"
+  },
+
+  "text": {
+    "content": "LEARN SOMETHING NEW",
+    "position": "center safe area",
+    "timing": { "start": 2, "end": 3 }
+  }
+}
+🎬 Clip 4 (KIDS – AI LEARNING)
+{
+  "master": "use master settings",
+
+  "scene": "Tamil kid learning on laptop, screen showing simple AI interface or coding, modern clean desk",
+
+  "voiceover": {
+    "text": "இப்போ kids… AI மாதிரி skills கத்துக்க ஆரம்பிச்சுட்டாங்க… அது தான் next level learning."
+  },
+
+  "text": { "enabled": false }
+}
+🎬 Clip 5 (KIDS – RESULT)
+{
+  "master": "use master settings",
+
+  "scene": "kid creating AI project, robot simulation or small robot interaction, smiling confidently",
+
+  "voiceover": {
+    "text": "projects build பண்ணுவாங்க… realஆ learn பண்ணுவாங்க… confidence கூட அதிகமாகும்…"
+  },
+
+  "text": { "enabled": false }
+}
+{
+  "master": "use master settings",
+
+  "scene": "same Tamil girl, confident smile, slight head nod",
+
+  "voiceover": {
+    "text": "இந்த summer waste பண்ணாதீங்க… ஒரு நல்ல start பண்ணுங்க… Social Eagle AIல இப்பவே enroll பண்ணுங்க."
+  },
+
+  "text": {
+    "content": "ENROLL NOW",
+    "position": "center safe area",
+    "timing": { "start": 2, "end": 3 }
+  }
+}
+{
+  "master": "use master settings",
+
+  "scene": "same Tamil girl, confident smile, slight head nod",
+
+  "voiceover": {
+    "text": "இந்த summer waste பண்ணாதீங்க… ஒரு நல்ல start பண்ணுங்க… Social Eagle AIல இப்பவே enroll பண்ணுங்க."
+  },
+
+  "text": {
+    "content": "ENROLL NOW",
+    "position": "center safe area",
+    "timing": { "start": 2, "end": 3 }
+  }
+}
